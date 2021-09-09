@@ -1,0 +1,2 @@
+.card{display:flex;flex-direction:column;text-align:center;background-color:#0ff;align-items:center}.card-title{font-size:50px;font-weight:700;color:red}.button{width:200px;height:50px;background-color:#f4a460;margin-bottom:20px;border:1px solid #000;border-radius:4px;transition:-webkit-transform 1s;transition:transform 1s;transition:transform 1s,-webkit-transform 1s}.button:hover{-webkit-transform:scale(1.2);transform:scale(1.2)}
+/*# sourceMappingURL=main.9941930d.chunk.css.map */
